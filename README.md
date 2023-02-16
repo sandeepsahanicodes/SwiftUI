@@ -9,4 +9,3 @@
 - Uses basic SwiftUI components to build a basic business card layout.
 ## Screenshots
 <img width="200" alt="Business Card App Screenshot" src="https://user-images.githubusercontent.com/82876741/219125100-48396386-0c26-4cbe-8016-9be0aa229887.png">
-
