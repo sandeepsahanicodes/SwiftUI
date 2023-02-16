@@ -9,3 +9,10 @@
 - Uses basic SwiftUI components to build a basic business card layout.
 ## Screenshots
 <img width="200" alt="Business Card App Screenshot" src="https://user-images.githubusercontent.com/82876741/219125100-48396386-0c26-4cbe-8016-9be0aa229887.png">
+
+# Project-3
+## Dicee-SwiftUI
+- A simple app which rolls two dices and show random dice faces.
+## Screenshots
+<img width="200" alt="Dicee-SwiftUI Screenshot" src="https://user-images.githubusercontent.com/82876741/219324245-3bd1c9b2-9204-42e1-bf76-43ea8e7daf0a.png">
+
