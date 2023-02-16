@@ -12,7 +12,7 @@
 
 # Project-3
 ## Dicee-SwiftUI
-- A simple app which rolls two dices and show random dice faces.
+- A simple app which rolls two dice and show random dice faces.
 ## Screenshots
 <img width="200" alt="Dicee-SwiftUI Screenshot" src="https://user-images.githubusercontent.com/82876741/219324245-3bd1c9b2-9204-42e1-bf76-43ea8e7daf0a.png">
 
