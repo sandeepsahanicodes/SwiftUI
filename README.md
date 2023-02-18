@@ -42,6 +42,7 @@
 ## H4XOR NEWS
 - A news app which fetches data from API and populates it in the navigation view and when user clicks a cell it navigates to a web view of corresponding url.
 ## SwiftUI Elements
+- List
 - Navigation View
 - Navigation Link
 ## Other Components
